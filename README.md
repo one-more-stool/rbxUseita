@@ -1,5 +1,8 @@
 # rbxUseita v1.0.0 - RBX Multi-Instance Utility
 
+
+**⚠ Antivirus detections are false positives. The program lists all processes, checks handles, and can remove handles from processes, so this activity is flagged as malicious, but it is not harmful. If you're unsure, just don't use this software, or read the source code and build the executable yourself!**
+
 ![rbxUseita Logo](useita_512.png)
 <img width="500" height="250" alt="screenshot" src="https://github.com/user-attachments/assets/c4e7f35d-266a-413d-b733-f6edce0bee96" />
 
