@@ -61,6 +61,8 @@ language=en
 # Clone the repository
 git clone <repository-url>
 cd rbxUseita
+# Clone Imgui
+git clone https://github.com/ocornut/imgui
 
 # Create build directory
 mkdir build
