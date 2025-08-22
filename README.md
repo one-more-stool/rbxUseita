@@ -1,6 +1,7 @@
 # rbxUseita v1.0.0 - RBX Multi-Instance Utility
 
 ![rbxUseita Logo](useita_512.png)
+<img width="500" height="250" alt="screenshot" src="https://github.com/user-attachments/assets/c4e7f35d-266a-413d-b733-f6edce0bee96" />
 
 A Windows application that allows you to run multiple RBX game instances simultaneously by managing the singleton event handles that normally prevent this.
 
